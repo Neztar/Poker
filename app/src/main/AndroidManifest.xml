@@ -25,7 +25,8 @@
         <activity
             android:name=".HowtoPlay_Activity"
             android:screenOrientation="sensorLandscape" />
-        <activity android:name=".HighScore_Activity"></activity>
+        <activity android:name=".HighScore_Activity"
+            android:screenOrientation="sensorLandscape"></activity>
     </application>
 
 </manifest>
